@@ -1,11 +1,11 @@
 
-export function Form2(){
+export function Form3(){
 
 
 
     return (
         <>
-            <h2>Confirma tus datos</h2>
+            <h2>Login</h2>
            
         </>
     )
